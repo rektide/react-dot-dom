@@ -1,0 +1,21 @@
+{
+	"name": "react-dot-dom",
+	"version": "1.0.0",
+	"description": "React.DOM, modularly, literally",
+	"main": "react-dot-dom.js",
+	"repository": {
+		"type": "git",
+		"url": "https://archive.voodoowarez.com/react-dot-dom"
+	},
+	"scripts": {
+		"test": "node .test"
+	},
+	"author": "rektide de la faye",
+	"license": "X",
+	"dependencies": {
+		"react": "^0.14.7"
+	},
+	"devDependencies": {
+		"tape": "^4.4.0"
+	}
+}
